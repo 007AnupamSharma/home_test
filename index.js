@@ -42,9 +42,9 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });
 
-document.querySelector(".gfgLogo").addEventListener(click, function () {
-    window.location.href = "./home.html"; 
-});
+// document.querySelector(".gfgLogo").addEventListener(click, function () {
+//     window.location.href = "./home.html"; 
+// });
 
 
 var div = document.getElementById('show_more');
